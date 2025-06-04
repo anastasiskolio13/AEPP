@@ -1,0 +1,13 @@
+# Visual Studio build and debug files
+.vs/
+*.user
+**/x64/Debug/
+**/x64/Release/
+**/Debug/
+**/Release/
+*.ilk
+*.log
+*.pdb
+*.idb
+*.exe
+*.tlog/
